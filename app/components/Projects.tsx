@@ -7,7 +7,7 @@ import React, { useEffect } from "react"
 import { useSectionInView } from "@/lib/hooks"
 
 const Projects = () => {
-    const { ref } = useSectionInView('Projects', 0.5)
+  const { ref } = useSectionInView('Projects', 0.5)
 
 
   return (

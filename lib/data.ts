@@ -40,6 +40,7 @@ export const projectsData = [
       "An album finder that lets you find albums from your favorite artists using Spotify's API.",
     tags: ["React", "Next.js", "ShadCN UI", "Tailwind"],
     imageUrl: findTunes,
+    link: 'https://find-tunes.netlify.app'
   },
   {
     title: "thatswhatshebot",
@@ -47,6 +48,7 @@ export const projectsData = [
       "Discord bot serving random quotes from the tv-show The Office.",
     tags: ["Python"],
     imageUrl: bot,
+    link: 'https://github.com/Ibinola/thatswhatshebot'
   },
   // {
   //   title: "Coin Tracker",
